@@ -1,8 +1,3 @@
-#List of things to do:
-#Find the longest word //Done//
-#Learn how to make node//Done//
-#Learn how to make a root and add children to the root
-#Make those children into parents and make children out of them --- LOOP unitl largest word is made
 import os
 import graphviz
 
